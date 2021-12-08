@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Sandoman19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Sandoman
 
-<!---
-Sandoman19/Sandoman19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on Online Material Store
+- 👀 I’m interested in website programing
+- 💞️ I’m looking to collaborate on Online Material Store
+- 📫 How to reach me email me @ Aaron@characetrgroup.com.au
+- 💬 Please see my protfolio at<a href="https://sandoman19.github.io/Portfolio/" rel="nofollow">https://sandoman19.github.io/Portfolio/</a>
